@@ -1,0 +1,4 @@
+﻿  FlockCase.cpp
+c:\users\ferla\source\repos\flockcase\flockcase\flockcase.cpp(92): warning C4715: 'birdSearchVelocity': no todas las rutas de acceso de control devuelven un valor
+c:\users\ferla\source\repos\flockcase\flockcase\flockcase.cpp(104): warning C4715: 'birdSearchDistance': no todas las rutas de acceso de control devuelven un valor
+  FlockCase.vcxproj -> C:\Users\ferla\source\repos\FlockCase\Debug\FlockCase.exe
