@@ -1,2 +1,2 @@
 # Caso6
-FlockingBirds
+Dicho proyecto contiene una versión de Flocking Bird unicamente para la lectura de datos , que se copian en un.txt para su lectura y por otro lado, se encuentra el Flocking Bird para realizar el pintado.En el caso del codigo c++ es importante tomar en cuenta que se realizó en visual studio 2017, y además dicha carpeta contiene un txt previamente realizado con los datos tomados como referencia. 
